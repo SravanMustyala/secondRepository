@@ -1,1 +1,2 @@
 I'm testing how git works using some sample works.
+Lets's see some commands like clone, pull etc..
